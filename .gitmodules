@@ -1,3 +1,12 @@
 [submodule "modules/jtframe"]
 	path = modules/jtframe
 	url = https://github.com/jotego/jtframe.git
+[submodule "modules/fx68k"]
+	path = modules/fx68k
+	url = https://github.com/ijor/fx68k.git
+[submodule "modules/jtopl"]
+	path = modules/jtopl
+	url = https://github.com/jotego/jtopl.git
+[submodule "modules/jtkicad"]
+	path = modules/jtkicad
+	url = https://github.com/jotego/jtkicad.git
