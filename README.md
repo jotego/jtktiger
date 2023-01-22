@@ -16,6 +16,12 @@ In chronological order:
 
  1. 
 
+# Schematics
+
+The KiCAD schematics for Kyukyoku Tiger developed by us are in the ktiger/sch core folder. A link to a PDF version is available below.
+
+- [JOTEGO's schematics for Kyukyuoku Tiger](https://github.com/jotego/jtbin/tree/master/sch/ktiger.pdf)
+
 ## Known Issues
 
 ## Keyboard
